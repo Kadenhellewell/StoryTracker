@@ -1,2 +1,6 @@
-public class SubStoryTile {
+import javafx.scene.shape.Rectangle;
+
+public class SubStoryTile extends Rectangle
+{
+
 }
